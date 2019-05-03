@@ -165,6 +165,9 @@ header.masthead .masthead-content .masthead-subheading {
   .card-title {
     margin-top: 1rem;
   }
+  .card-mobile {
+    margin-bottom: 1rem;
+  }
 }
 
 .bg-primary {
